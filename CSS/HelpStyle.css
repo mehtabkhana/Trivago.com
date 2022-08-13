@@ -1,0 +1,107 @@
+.tri{
+    font-size: 42px;
+    font-weight: 700;
+    color: rgb(7, 128, 176);
+}
+
+.va{
+    font-size: 42px;
+    font-weight: 700;
+    color: rgb(246, 146, 30);
+}
+
+.go{
+    font-size: 42px;
+    font-weight: 700;
+    color: rgb(200, 73, 44);
+}
+
+.triPara{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.paragraph1{
+    margin-top: 80px;
+    font-size: 37px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    color: rgb(7, 128, 176);
+}
+
+.Search{
+    margin-top: 15px;
+    margin-left: 31%;
+    padding: 12px 180px;
+    box-shadow: 1px 2px 2px 2px rgb(217, 220, 220);
+    border: none;
+    border-radius: 7px;
+}
+
+input, placeholder{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(201, 201, 201);
+}
+
+.Search:hover{
+    border: 0.5px solid black;
+    transition: 1s;
+}
+
+.homeBtn{
+    margin-top: 40px;
+    margin-right: 50px;
+    font-size: 15px;
+    font-weight: 500;
+    display: inline-block;
+    float: right;
+    color: rgb(97, 98, 98);
+    text-decoration: none;
+}
+
+.homeBtn:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.promot{
+    margin-top: 50px;
+    margin-left: 27%;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.mehtab{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.color{
+    color: black;
+    line-height: 40px;
+    text-decoration: none;
+}
+
+.color:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.listA{
+    margin-top: 150px;
+    margin-left: 27%;
+}
+
+.radi{
+    padding: 16px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.radi:hover{
+    background-color: rgb(247, 250, 252);
+    transition: 0.3s;
+}
